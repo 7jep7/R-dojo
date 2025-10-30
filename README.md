@@ -15,7 +15,9 @@ A beginner-friendly R script that creates stacked bar charts comparing species o
 - Orders species by habitat preference
 - Extensively commented for learning purposes
 
-**Documentation**: See [README_stacked_bar_chart.md](README_stacked_bar_chart.md) for detailed usage instructions.
+**Documentation**: 
+- [USAGE_GUIDE.md](USAGE_GUIDE.md) - Quick start guide for complete beginners
+- [README_stacked_bar_chart.md](README_stacked_bar_chart.md) - Detailed technical documentation
 
 **Example Files**: 
 - `habitat_a_agriculture.csv` - Sample data for Agriculture habitat
