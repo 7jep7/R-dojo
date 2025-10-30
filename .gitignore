@@ -1,0 +1,19 @@
+# R output files
+*.png
+*.pdf
+*.jpg
+*.jpeg
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+
+# Temporary files
+*~
+.DS_Store
+
+# User data files (keep example files only)
+# Uncomment the line below if you don't want to commit your actual data files
+# habitat_*.csv
+# habitat_*.xlsx
